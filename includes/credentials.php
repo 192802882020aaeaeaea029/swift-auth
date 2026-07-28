@@ -7,10 +7,10 @@ NOTE: change this file name from credentials.example.php to credentials.php
 
 error_reporting(0);
 
-$databaseHost = "localhost";
-$databaseUsername = "root";
-$databasePassword = "";
-$databaseName = "main";
+$databaseHost = "sql.freedb.tech";
+$databaseUsername = "u_orBpOc";
+$databasePassword = "NHmRpXTl7R6H";
+$databaseName = "freedb_qARXs4hE";
 
 $mysqlRequireSSL = false; // in case the MySQL server requires SSL
 
